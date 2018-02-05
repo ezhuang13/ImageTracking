@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bailey/programming/ImageTracking/SampleTracking.cpp
+opencv2/opencv.hpp
+-
+opencv2/tracking.hpp
+-
+opencv2/core/ocl.hpp
+-
+

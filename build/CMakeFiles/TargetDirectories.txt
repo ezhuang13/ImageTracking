@@ -1,0 +1,3 @@
+/home/bailey/programming/ImageTracking/build/CMakeFiles/rebuild_cache.dir
+/home/bailey/programming/ImageTracking/build/CMakeFiles/SampleTracking.dir
+/home/bailey/programming/ImageTracking/build/CMakeFiles/edit_cache.dir
